@@ -20,12 +20,12 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Isaaac Torres García    :octocat:    https://github.com/IsaacTorres97 
+ * :bust_in_silhouette:  Sergio Albacete Martin     :octocat:  https://github.com/sergioam20
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
------ 
+
 
 
 >>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
@@ -37,47 +37,62 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+
+Para comprender más acerca del negocio al cual ayudaremos con su experiencia de usuario necesitaremos conocer un variedad de aspectos como puede ser en donde se encuentra ubicado, cuales son las actividades que ofrecen y como estas mejoran la experiencia gastronómica de sus clientes. Conociendo lo anterior podremos enfocar mejor el cliente prototípico al que puede, y quiere,  llegar el negocio en cuestión para de esa manera preparar la mejor experiencia de usuario posible acorde a su perfil y necesidades.
+Para recopilar información acerca del negocio usaremos principalmente la información que encontremos en internet del mismo como pueden ser: página web, redes sociales, artículos en periódicos. Además nos podemos acercar al lugar en cuestión para recopilar información con respecto al espacio físico que ocupa, donde está ubicado, como está decorado, sus actividades se desarrollan al aire libre o no y fijarse en las personas que transcurren en ese momento al sitio. Aunado a esto probar la la experiencia ofrecida por el negocio sería de muy alto valor a la hora de conocer el producto y saber a quién está dirigido.
+ 
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+-Información de producto
+-Estrategia de marketing
+-Gestión de Reservas
+-Contacto con el cliente
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+![Tabla de comparación](P1/DeskResearch.png)
+
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Persona 1 - Laura Pérez](P1/Persona%20%231.png)
+
+Laura es una persona jóven, creativa y apasionada de la tecnología (redes sociales y edición de video)  que trabaja como CM de una cafetería de Granada. Apasionada también por la gastronomía local.
+
+![Persona 2 - Carlos Pérez](P1/Persona%20%232.jpeg)
+Carlos es un hombre adulto que vive con su esposa con la que le gsuta viajar y probar sitios y experiencias nuevas, desde qeu sus hijos han dejado la casa siente qeu si vida en pareja es muy monotona.
+
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Laura - JourneyMap](P1/LauraPerez-Journey.jpeg)
 
+![Carlos - JourneyMap](CarloJourney.png)
+Me  parece que son dos perfiles adecuados y reales a lo que podríamos encontrar hoy en día.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+La valoración obtenida ha sido: 59(Moderate)
+
 
 <br>
+
+El el caso de La Taberna de Kafka que no tiene una página web, ya que es un negocio que no necesita de la misma porque es boca a boca le ha hecho de una reputación, el análisis se ha limitado a las redes sociales y a los espacios que tiene en buscadores como TripAdvisor. Dentro de este análisis podemos resaltar como el negocio se enfoca en la redes sociales (instagram y facebook) para transmitir su esencia a sus posibles clientes, esto crea una mayor cercanía con los clientes que ya los conocen pero no facilita el acceso o el acercamiento de potenciales clientes. La información más básica como la ubicación del sitio, una descripción de sus productos y experiencias se puede encontrar de forma escueta en sus páginas en redes sociales pero se complica un poco más la interacción con los usuarios que quieran disfrutar de sus experiencias, y  más aún cuando estos no son diestros de las redes, a la hora de reservar o conocer con mayor detalle de que tratan sus eventos y cómo acceder a los mismos.
 
 ## Paso 2. UX Design  
 
