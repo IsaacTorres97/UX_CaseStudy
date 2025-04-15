@@ -102,13 +102,20 @@ El el caso de La Taberna de Kafka que no tiene una página web, ya que es un neg
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-![Diagrama](P2/feedbackgreed)
+  
+![Diagrama](P2/feedbackgreed.png)
+
+Problema Detectado: La investigación inicial reveló varios pain points. Los usuarios
+interesados en Taberna Kafka tenían dificultades para encontrar información actualizada:
+la carta no estaba accesible fácilmente, la localización y horario sólo aparecían en textos
+de redes sociales, y no había un canal formal para reservas o consultas. La presencia
+online no reflejaba el carácter especial de la taberna ni generaba confianza plena en
+nuevos clientes. También se detectó que competidores directos (otras tabernas de la
+zona) ya cuentan con sitios web sencillos donde muestran su menú y permiten contacto
+inmediato, lo que pone a Taberna Kafka en desventaja.
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
