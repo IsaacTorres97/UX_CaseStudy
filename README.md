@@ -146,9 +146,18 @@ La página web de 'La Taberna de Kafka' transforma la relación con los clientes
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
+![Sitemap](P2/Arquitectura.png)
+
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+  Registrase | registrase en la plataforma
+  Inicio | lleva a la página principal
+  Nuestros vinos | te lleva al catalogo de vinos
+  Sobre nosotros | información del restaurante
+  Reservar | crea una reserva
+  Suscribirse | te suscribe en la newsletter
+  Cometar | crea un comentario en las reseñas
 
 
 ### 2.d Wireframes
