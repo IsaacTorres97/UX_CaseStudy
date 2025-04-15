@@ -137,7 +137,7 @@ La página web de 'La Taberna de Kafka' transforma la relación con los clientes
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
+![User Flow](P2/UserFLow.JPG)
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
