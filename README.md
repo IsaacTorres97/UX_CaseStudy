@@ -161,10 +161,21 @@ Término | Significado
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+![Método UX](img/Wireframes.png)
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Página de inicio
+![Wireframe inico](P2/inicio.png)
+
+Página del catalogo de vinos junto con la recomendación del mes
+![Wireframe vinos](P2/vinos.png)
+
+Página genérica con la informacion de los eventos de catas
+![Wireframe evento](P2/evento.png)
+
+Página con la información del restaurante
+![Wireframe nosotros](P2/nosotros.png)
+
 
 <br>
 
