@@ -108,7 +108,7 @@ El el caso de La Taberna de Kafka que no tiene una página web, ya que es un neg
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
+![Diagrama](P2/feedbackgreed)
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
