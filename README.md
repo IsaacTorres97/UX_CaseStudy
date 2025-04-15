@@ -119,12 +119,12 @@ inmediato, lo que pone a Taberna Kafka en desventaja.
     
 >>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
 >>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+La página web de 'La Taberna de Kafka' transforma la relación con los clientes al ofrecer una experiencia digital que complementa y potencia la magia del restaurante. Con herramientas prácticas como reservas en línea, reseñas interactivas y un diseño inspirado en Kafka, el sitio web no solo facilita la planificación de visitas, sino que también conecta emocionalmente con los clientes, expande el alcance del negocio y refuerza su identidad única.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
-
+![ScopeCanvas](P2/scopcanvas.png)
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
