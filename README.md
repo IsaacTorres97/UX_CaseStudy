@@ -210,6 +210,8 @@ Página con la información del restaurante
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
+Pincha abajo para accedeer al mochup
+https://www.figma.com/design/7OoLiCMAsjJl7QleOEN71M/Kafka-landing?node-id=17-7&p=f&t=Bz4TEWxMxAHdgLXZ-0
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
