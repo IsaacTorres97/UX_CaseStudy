@@ -185,7 +185,7 @@ Página con la información del restaurante
 ![Método UX](img/moodboard.png)
 -----
 
-![Moodboard](P3/canvas_kafka_250529_1118.png)
+![Moodboard](P3/canvas_kafka-250529_1118.png)
 
 Hemos utilizado milanote para organizar el moodboard y apoyandodnos en paleton para elegir la paleta de colores adecuada para el UX del proyecto,adicionalmente hemos probado las fuentes y como su diseño se adecua a lo que buscabamos en fonts de google.
 No podemos usar la imagen para cabecera de instagram ya que contiene cosas como los colores y las fuentes que no estan alineadas con el conteniido que puede ser adecuado para esa plataforma, haciendo algunos cambios se podria usar para esa finalidad pero sería mejor utilizar otras imagenes o alguna qeu ya forma parte del moodboard.
