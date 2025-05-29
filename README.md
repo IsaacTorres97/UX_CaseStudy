@@ -180,32 +180,48 @@ Página con la información del restaurante
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
+>>>UX-Case Study de La taberna Kafka
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+![Moodboard](P3/canvas_kafka_250529_1118.png)
+
+Hemos utilizado milanote para organizar el moodboard y apoyandodnos en paleton para elegir la paleta de colores adecuada para el UX del proyecto,adicionalmente hemos probado las fuentes y como su diseño se adecua a lo que buscabamos en fonts de google.
+No podemos usar la imagen para cabecera de instagram ya que contiene cosas como los colores y las fuentes que no estan alineadas con el conteniido que puede ser adecuado para esa plataforma, haciendo algunos cambios se podria usar para esa finalidad pero sería mejor utilizar otras imagenes o alguna qeu ya forma parte del moodboard.
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
-----
+![Landing_Page](P3/image.png)
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Para el landing apge hemos mantenido una estética sobria utilizando la paleta de colores planteada anteriormente en el moodboard, usamos una imagen atenuada de un barril que representa el espiritú por el vino que tiene la taberna y sobre esa imagen central hemos puesto el botón que redirige a la web con la finalidad de que sea lo que llame la atención al observador.
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
-----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Identidad Visual
+Para mantener coherencia visual y reforzar la imagen de marca, se ha definido una paleta de colores basada en tonos oscuros que transmiten elegancia y sencillez. Se utiliza el negro como color principal del fondo, combinado con texto blanco para mejorar la legibilidad. Como color de llamada a la acción (CTA) se ha elegido un rojo intenso, que resalta sin saturar la interfaz.
+
+La tipografía empleada es sans serif, clara y fácil de leer tanto en dispositivos móviles como en escritorio. Los títulos son destacados en negrita, mientras que el cuerpo de texto mantiene un peso normal.
+
+Estructura General del Layout
+El diseño sigue una estructura limpia y organizada, dividida en bloques verticales que facilitan la navegación. El encabezado contiene el logo y el menú de navegación, ubicado en la parte superior izquierda y derecha respectivamente. A continuación, se presenta la sección principal (hero section), donde se muestra la cata de vinos más destacada, incluyendo título, detalles e imagen representativa.
+
+Bajo esta sección se encuentran otros eventos disponibles los cuales se presentan en formato de carousel, comentarios de usuarios y datos de contacto. Finalmente, en el pie de página, se repite la información de contacto para facilitar su acceso.
+
+Tarjetas de cata: Cada evento se muestra en forma de tarjeta con imagen, título, fecha, hora, precio y botón de reserva. Este patrón permite mostrar la información de manera ordenada y visualmente atractiva.
+
+
+Interacción y Estados
+Los elementos interactivos, como los botones, cambian ligeramente su apariencia al pasar el ratón por encima o al ser seleccionados, ofreciendo retroalimentación visual al usuario. En los formularios, se muestran mensajes claros ante errores o confirmaciones exitosas, ayudando al usuario a comprender el estado de la acción realizada.
+
+Navegación
+La barra de navegación se encuentra siempre visible en la parte superior, con opciones accesibles desde cualquier sección. En dispositivos móviles, se utiliza un menú hamburguesa que despliega las opciones principales sin sobrecargar la pantalla.
+
+Consideraciones Finales
+Este documento sirve como guía inicial para el desarrollo del prototipo web de "La Taberna de Kafka". Se han identificado patrones de diseño comunes, colores, tipografías y estructuras que permitirán mantener la coherencia visual y funcional durante todo el proceso. Esta base puede ser revisada y ajustada conforme avance el proyecto y se obtenga feedback de usuario.
 
 
 ### 3.d Mockup
