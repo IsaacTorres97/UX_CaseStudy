@@ -226,7 +226,8 @@ Este documento sirve como guía inicial para el desarrollo del prototipo web de 
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
-Pincha abajo para accedeer al mochup
+Pincha abajo para accedeer al mockup de nuestra aplicación
+
 https://www.figma.com/design/7OoLiCMAsjJl7QleOEN71M/Kafka-landing?node-id=17-7&p=f&t=Bz4TEWxMxAHdgLXZ-0
 ----
 
