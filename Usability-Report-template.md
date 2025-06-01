@@ -43,38 +43,24 @@ Se llevó a cabo una prueba de usabilidad moderada en la que participaron usuari
 
 #### Resultados obtenidos
 Los resultados de esta web son los de las columnas testing B.
+Entre las dos personas que hemos evaluado, obtenemos una valoración media de 56,25/100, lo cual es bajo teniendo en cuenta que algo aceptable se marcaría a partir de 70.
 ![](img/excelSUS.png)
 
 ## 4 CONCLUSIONES 
+La prueba de usabilidad demostró que el prototipo no llega a cumplir con los estándares esperados de funcionalidad y experiencia de usuario. 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+La navegación no llego a ser fluida del todo y las tareas se completaron pero con alguna complicación.
 
 #### Incidencias
-
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+No hubieron fallos técnicos durante las sesiones ni se registraron bloqueos ni confusión grave.
 
 #### Valoración 
-
-* (Puntos Positivos a destacar)
-
-
+Buena estética visual y coherencia con el producto artesanal, bien ambientado en el producto a ofrecer y buena paleta de colores.
 
 #### Recomendaciones y propuesta de mejoras: 
-
-* (Puntos de mejora)
-
-
-
-
-
-
+Mayor visibilidad para los filtros y herramientas de búsqueda.
+Añadir funciones para incentivar la recurrencia (favoritos, novedades, etc.).
+Eliminar el panel de botones inferior y añadirlo al  menu superior, junto conn el login.
 
 #### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La aplicación del cuestionario SUS ha resultado muy útil para validar la calidad del diseño y la experiencia de usuario. Ha permitido identificar pequeñas áreas de mejora que podrían pasar desapercibidas en pruebas informales. 
