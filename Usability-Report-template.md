@@ -9,34 +9,20 @@
 
 
 ### Realizado por:
-Informe realizado por equipo PardeDos del grupo 2 de los viernes. 
-
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
+Informe realizado por equipo PardeDos del grupo 2 de los viernes compuesto por Sergio Albacete Martín e Isaac Emilio Torres García.
+Después de realizar estos informes, hemos ganado experiencia en análisis de usuarios, creación de prototipos funcionales, evaluación heurística y pruebas de usabilidad (test SUS).
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
-
-[Incluir un breve resumen el propósito de la App]
-
- 
-
-
+El proyecto tiene como objetivo rediseñar la interfaz web de una tienda de cerámica artesanal, optimizando la experiencia del usuario en cuanto a navegación, estética y funcionalidad, tanto en desktop como en móvil. 
+Nuestros compañeros han intentado mejorar la claridad en la presentación de productos, la facilidad de compra y la conexión emocional con el producto artesanal.
 
 ## 2 RESUMEN EJECUTIVO
+Hemos recogido resultados del Test de usabilidad sobre el prototipo funcional del sitio web, evaluado mediante el cuestionario estandarizado SUS.
 
-
-
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
-
-
-
+Se identificó una experiencia del nivel casi marginal D con una puntuación media de 56,25/100.
+En nuestra investigación, hemos encontrado mayormente ciertos problemas relacionados con la dificultad de encontrar el cómo añadir una pieza al carrito y también con respecto al panel de abajo que encontramos para logearnos (lo cual hubiese estado mejor en la parte de arriba de la pantalla al lado del menú), el carrito y el menú que lleva directamente al catálogo, ya que hubiese estado mejor incorporar ese panel al completo en el menú superior que tenemos al lado del logo, junto con el contacto, los talleres...
+Con respecto al botón para personalizar un carrito, hemos visto más lógico que este se encontrase en la parte de arriba del catálogo, ya que sería una opción más visible y más usada, ya que se vería con más claridad a la hora en la que el cliente está viendo el catálogo, ya que en ese momento le interesaría más ver el botón de personalizar jarrón.
+En general, es una app bastante correcta, pero hemos considerado las anteriores mejoras a considerar por las cuáles ha surgido la nota media relativamente "baja" del cuestionario SUS.
 
 ## 3 METODOLOGIA 
 
