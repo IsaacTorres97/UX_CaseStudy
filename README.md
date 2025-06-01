@@ -249,10 +249,13 @@ Aquí dejo el enlace a la plantilla en la que respondemos todo lo pedido en la p
 
 
 ## Conclusiones finales & Valoración de las prácticas
+Aquí adjunto los resultados del test SUS, del cual obtenimos la valoración de 57,2/100, lo cual se puede parecer un poco flojo, pero habiendo visto lo que es la Taberna de Kafka, no podemos pedir más ya que cumple con la total funcionalidad que necesitaba esta taberna.
+![](img/excelSUS.png)
 
+A cada participante se le pidieron pruebas como reservar un evento y logearse, para valorar la facilidad del usuario a la hora de realizar estas tareas.
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Luego les pedimos que contestasen a unas preguntas breves y generales en un cuestionario sobre las cuales obtuvimos los resultados del SUS.
 
+Creemos que podríamos añadir para que los usuarios pudieran destacar novedad que les parezcan más interesantes, promociones personalizadas y pulir algunos detalles de la interfaz como asegurar que los filtros de búsqueda y categorías sean más visibles para quienes inicialmente no los notaron.
 
-
-
+En general, estamos contentos con el desarrollo de las prácticas y lo conseguido con esfuerzo hasta llegar a terminar el desarrollo del proyecto final, habiéndonos resultado muy útiles algunas herramientas usadas a lo largo de la asignatura.
