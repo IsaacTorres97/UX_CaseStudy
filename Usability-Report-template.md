@@ -6,34 +6,19 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Tu huella en la cerámica)
 
-### (Fecha)
+### (30-05-2025)
 
+[img/logo_kerarqueo.png]
 
-
-
-
-[img Proyecto]
-
-[Enlace a GITHUB del proyecto]
-
-
-
+[GitHub del proyecto(https://github.com/DIU3-TheLastDance/UX_CaseStudy)]
 
 
 ### Realizado por:
+Informe realizado por equipo PardeDos del grupo 2 de los viernes. 
 
 [Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
 
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
