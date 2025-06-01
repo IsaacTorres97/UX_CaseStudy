@@ -244,6 +244,8 @@ https://www.figma.com/design/7OoLiCMAsjJl7QleOEN71M/Kafka-landing?node-id=17-7&p
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
+Aquí dejo el enlace a la plantilla en la que respondemos todo lo pedido en la práctica 4 sobre el proyecto de los compañeros que nos tocaron.
+[Usability-Report-template.md]
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
