@@ -1,8 +1,6 @@
 # Usability Report
 
-#### Evaluación de usabilidad del proyecto 
-
-### Tu huella en la cerámica
+## Evaluación de usabilidad del proyecto "Tu huella en la cerámica"
 
 ### 30-05-2025
 ![](img/logo_kerarqueo.png)
