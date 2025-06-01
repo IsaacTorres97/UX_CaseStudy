@@ -21,7 +21,9 @@ Hemos recogido resultados del Test de usabilidad sobre el prototipo funcional de
 
 Se identificó una experiencia del nivel casi marginal D con una puntuación media de 56,25/100.
 En nuestra investigación, hemos encontrado mayormente ciertos problemas relacionados con la dificultad de encontrar el cómo añadir una pieza al carrito y también con respecto al panel de abajo que encontramos para logearnos (lo cual hubiese estado mejor en la parte de arriba de la pantalla al lado del menú), el carrito y el menú que lleva directamente al catálogo, ya que hubiese estado mejor incorporar ese panel al completo en el menú superior que tenemos al lado del logo, junto con el contacto, los talleres...
+
 Con respecto al botón para personalizar un carrito, hemos visto más lógico que este se encontrase en la parte de arriba del catálogo, ya que sería una opción más visible y más usada, ya que se vería con más claridad a la hora en la que el cliente está viendo el catálogo, ya que en ese momento le interesaría más ver el botón de personalizar jarrón.
+
 En general, es una app bastante correcta, pero hemos considerado las anteriores mejoras a considerar por las cuáles ha surgido la nota media relativamente "baja" del cuestionario SUS.
 
 ## 3 METODOLOGIA 
