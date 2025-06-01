@@ -8,9 +8,8 @@
 
 ### (Tu huella en la cerámica)
 
-### (30-05-2025)
-
-[img/logo_kerarqueo.png]
+### (30-05-2025) 
+![](img/logo_kerarqueo.png)
 
 [GitHub del proyecto(https://github.com/DIU3-TheLastDance/UX_CaseStudy)]
 
