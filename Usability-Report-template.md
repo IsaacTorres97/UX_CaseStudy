@@ -29,22 +29,19 @@ En general, es una app bastante correcta, pero hemos considerado las anteriores 
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
+Hemos usado varias herramientas para valorar la experiencia del usuario, entre ellas, Maze Testing, para valorar algunas preguntas generales sobre el tema de la web y sobre la interfaz de la app. 
 
-[Metodología, sesiones,  técnicas aplicadas... ]
-
- 
+También hemos usado cuestionarios de Google con preguntas específicas y valoraciones del 1 al 5 para obtener los resultados del cuestionario SUS.
 
 #### Test de usuarios: Participantes
+Se llevó a cabo una prueba de usabilidad moderada en la que participaron usuarios representativos del público objetivo. Cada sesión fue individual y presencial, con un facilitador guiando al participante a través de un conjunto de tareas típicas en el sitio web.
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-
-
-
+| Participante | Género | Edad | Experiencia con e-commerce  |
+|--------------|--------|------|-----------------------------|
+| 1            | Hombre | 21   | Alta                        |
+| 2            | Hombre | 26   | Media                       |
 
 #### Resultados obtenidos
-
-
 
 (resultado de SUS)
 
