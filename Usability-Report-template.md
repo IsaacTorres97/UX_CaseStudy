@@ -42,20 +42,8 @@ Se llevó a cabo una prueba de usabilidad moderada en la que participaron usuari
 | Víctor       | Hombre | 26   | Media                       |
 
 #### Resultados obtenidos
-
-(resultado de SUS)
-
-
-
-(resultado de eyetracking)
-
-
-
-
-
-
-
-
+Los resultados de esta web son los de las columnas testing B.
+![](img/excelSUS.png)
 
 ## 4 CONCLUSIONES 
 
