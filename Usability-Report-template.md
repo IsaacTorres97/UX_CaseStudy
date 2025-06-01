@@ -1,14 +1,10 @@
 # Usability Report
 
-
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
-
 #### Evaluación de usabilidad del proyecto 
 
-### (Tu huella en la cerámica)
+### Tu huella en la cerámica
 
-### (30-05-2025) 
+### 30-05-2025
 ![](img/logo_kerarqueo.png)
 
 [GitHub del proyecto(https://github.com/DIU3-TheLastDance/UX_CaseStudy)]
