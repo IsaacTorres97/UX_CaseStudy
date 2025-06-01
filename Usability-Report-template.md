@@ -38,8 +38,8 @@ Se llevó a cabo una prueba de usabilidad moderada en la que participaron usuari
 
 | Participante | Género | Edad | Experiencia con e-commerce  |
 |--------------|--------|------|-----------------------------|
-| 1            | Hombre | 21   | Alta                        |
-| 2            | Hombre | 26   | Media                       |
+| Álvaro       | Hombre | 21   | Alta                        |
+| Víctor       | Hombre | 26   | Media                       |
 
 #### Resultados obtenidos
 
