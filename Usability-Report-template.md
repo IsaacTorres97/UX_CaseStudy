@@ -37,7 +37,7 @@ También hemos usado cuestionarios de Google con preguntas específicas y valora
 Se llevó a cabo una prueba de usabilidad moderada en la que participaron usuarios representativos del público objetivo. Cada sesión fue individual y presencial, con un facilitador guiando al participante a través de un conjunto de tareas típicas en el sitio web.
 
 | Participante | Género | Edad | Experiencia con e-commerce  |
-|--------------|--------|------|-----------------------------|
+|--------------|--------|------|-----------------------------| 
 | Álvaro       | Hombre | 21   | Alta                        |
 | Víctor       | Hombre | 26   | Media                       |
 
