@@ -5,7 +5,7 @@
 ## 30-05-2025
 ![](img/logo_kerarqueo.png)
 
-[GitHub del proyecto(https://github.com/DIU3-TheLastDance/UX_CaseStudy)]
+![GitHub del proyecto(https://github.com/DIU3-TheLastDance/UX_CaseStudy)]
 
 
 ### Realizado por:
